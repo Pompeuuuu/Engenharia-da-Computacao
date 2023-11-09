@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="assets/img/Astronaut-cuate.png" type="image/x-icon">
+    <link rel="stylesheet" href="style.css">
+    <title>Buscamobi</title>
+</head>
+
+<body>
+    <div class="logo-git">
+        <a href="/index.html"><img width="30px" src="./assets/img/icone-git.png" alt="icone-git"></a>
+        <p id="back-git"><a href="/index.html">voltar</a></p>
+    </div>
+
+    <div class="main-login">
+        <div class="left-login">
+            <h1>Buscamobi<br>Faça seu Login</h1>
+            <img class="left-login-img" src="./assets/img/Buscamobi.png" alt="astronaut">
+        </div>
+
+        <div class="right-login">
+            <div class="card-login">
+                <h1>Login</h1>
+                <div class="textfield">
+                    <label for="usuario">Usuário</label>
+                    <input type="text" id="usuario" placeholder="Usuário">
+                </div>
+
+                <div class="textfield">
+                    <label for="senha">Senha</label>
+                    <input type="password" id="senha" placeholder="Senha">
+                </div>
+
+                <button class="btn-login" onclick="autenticar()">Login</button>
+
+                <!-- Mensagens de feedback -->
+                <p id="success-message" style="color: green; display: none;">Login bem-sucedido. Redirecionando...</p>
+                <p id="error-message" style="color: red; display: none;">Senha incorreta. Tente novamente.</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function autenticar() {
+            var usuario = document.getElementById("usuario").value;
+            var senha = document.getElementById("senha").value;
+
+
+            if (usuario === "kevin@gmail.com" && senha === "keve1234") {
+                document.getElementById("success-message").style.display = "block";
+                document.getElementById("error-message").style.display = "none";
+
+            } else {
+                document.getElementById("error-message").style.display = "block";
+                document.getElementById("success-message").style.display = "none";
+                hr
+            }
+        }
+    </script>
+
+</body>
+
+</html>
