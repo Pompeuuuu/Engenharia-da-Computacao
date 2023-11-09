@@ -1,0 +1,185 @@
+{
+    "products": [{
+            "id": 6,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone3.jpeg",
+            "price": 8200,
+            "category": "Featured Products"
+        },
+
+        {
+            "id": 3,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone2.jpeg",
+            "price": 2500,
+            "category": "Special Products"
+        },
+        {
+            "id": 4,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone2.jpeg",
+            "price": 8200,
+            "category": "Special Products"
+        },
+        {
+            "id": 8,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone4.jpeg",
+            "price": 8200,
+            "category": "Featured Products"
+        },
+        {
+            "id": 5,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone3.jpeg",
+            "price": 2500,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 7,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone4.jpeg",
+            "price": 2500,
+            "category": "Featured Products"
+        },
+
+
+        {
+            "id": 10,
+            "title": "Apple iPhone 11 Pro",
+            "image": "./images/products/iphone/iphone5.jpeg",
+            "price": 9000,
+            "category": "Special Products"
+        },
+        {
+            "id": 11,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone6.jpeg",
+            "price": 2500,
+            "category": "Special Products"
+        },
+        {
+            "id": 13,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone6.jpeg",
+            "price": 8000,
+            "category": "Trending Products"
+        },
+        {
+            "id": 12,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone7.jpeg",
+            "price": 1980,
+            "category": "Special Products"
+        },
+
+        {
+            "id": 14,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone7.jpeg",
+            "price": 2600,
+            "category": "Trending Products"
+        },
+        {
+            "id": 9,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone5.jpeg",
+            "price": 3200,
+            "category": "Special Products"
+        },
+        {
+            "id": 15,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone8.jpeg",
+            "price": 3000,
+            "category": "Trending Products"
+        },
+        {
+            "id": 16,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung6.jpeg",
+            "price": 4000,
+            "category": "Special Products"
+        },
+        {
+            "id": 17,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung5.jpeg",
+            "price": 5500,
+            "category": "Trending Products"
+        },
+        {
+            "id": 2,
+            "title": "Apple iPhone 11",
+            "image": "./images/products/iphone/iphone1.jpeg",
+            "price": 8000,
+            "category": "Special Products"
+        },
+        {
+            "id": 18,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone9.jpeg",
+            "price": 6300,
+            "category": "Trending Products"
+        },
+        {
+            "id": 20,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung4.jpeg",
+            "price": 2700,
+            "category": "Special Products"
+        },
+        {
+            "id": 19,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone10.jpeg",
+            "price": 2500,
+            "category": "Trending Products"
+        },
+        {
+            "id": 1,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone1.jpeg",
+            "price": 2500,
+            "category": "Special Products"
+        },
+        {
+            "id": 24,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung2.jpeg",
+            "price": 5000,
+            "category": "Featured Products"
+        },
+        {
+            "id": 21,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone11.jpeg",
+            "price": 2000,
+            "category": "Trending Products"
+        },
+
+        {
+            "id": 25,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung1.jpeg",
+            "price": 4500,
+            "category": "Special Products"
+        },
+        {
+            "id": 22,
+            "title": "Samsung Galaxy",
+            "image": "./images/products/sumsung/samsung3.jpeg",
+            "price": 4600,
+            "category": "Trending Products"
+        },
+        {
+            "id": 23,
+            "title": "Sony WH-CH510",
+            "image": "./images/products/headphone/headphone12.jpeg",
+            "price": 2000,
+            "category": "Featured Products"
+        }
+
+    ]
+}
